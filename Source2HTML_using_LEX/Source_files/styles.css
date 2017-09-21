@@ -1,0 +1,27 @@
+.comments {
+	color:blue;
+}
+.keyword_datatypes {
+	color:green;
+}
+.keyword_non_datatypes {
+	color:goldenrod;
+}
+.preprocessor_dir {
+	color:purple;
+}
+.header_files {
+	color:red;
+}
+.string {
+	color:magenta;
+}
+.numeric_constant {
+	color:brown;
+}
+.ascii_char {
+	color:firebrick;
+}
+.backspace {
+	margin-left: -4px;
+}	
